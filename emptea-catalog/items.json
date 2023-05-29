@@ -10,33 +10,6 @@
 		"project_url": "https://backpack.app"
 	},
 	{
-		"name": "Glow",
-		"description": "Your new favorite solana wallet.",
-		"tags": [
-			"Wallet"
-		],
-		"image_url": "https://pbs.twimg.com/profile_images/1575292428172525570/s4XLMSbk_400x400.jpg",
-		"project_url": "https://glow.app"
-	},
-	{
-		"name": "Phantom",
-		"description": "The -wallet for everyone.",
-		"tags": [
-			"Wallet"
-		],
-		"image_url": "https://pbs.twimg.com/profile_images/1394116783792025603/jTMcoZRY_400x400.jpg",
-		"project_url": "https://phantom.app"
-	},
-	{
-		"name": "Solflare",
-		"description": "-wallet for solana.",
-		"tags": [
-			"Wallet"
-		],
-		"image_url": "https://pbs.twimg.com/profile_images/1612378388555091968/1lD4q5R9_400x400.jpg",
-		"project_url": "https://solflare.com"
-	},
-	{
 		"name": "Dexlab",
 		"description": "Dexlab makes launching on Solana easy.",
 		"tags": [
